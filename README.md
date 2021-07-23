@@ -9,7 +9,7 @@ Lovely Engine allows you to create and manage your Love2d projects from a nice g
 
 ## Installation
 
-To install it, first make sure you're running a **64-bit Linux** distribution, 32-bit support is planned for the future though, then run this command:
+To install it, first make sure you're running a **32-bit Linux** distribution, then run this command:
 
 ```
 $ git clone https://github.com/vinnyhorgan/lovely-engine && cd lovely-engine && chmod 777 run.sh installer.sh
