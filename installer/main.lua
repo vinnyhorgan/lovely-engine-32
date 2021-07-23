@@ -66,6 +66,7 @@ function install()
     if lite["value"] == true then
         os.execute("mkdir -p ./plugins")
         os.execute("tar -xvf ./lovely-utility/lite32.tar.xz")
+        os.execute("chmod 777 ./lite/lite")
         os.execute("mv ./lite/lite.lua ./plugins")
     end
 
